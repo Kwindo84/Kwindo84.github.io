@@ -1,8 +1,8 @@
 ---
-Title: RWB Application1 - 8.8.1
+Title: IDK Application1 - 8.8.1
 Date: 12-08-2022 10:51:00 +200
 categories: [chocopackage/intunepackage, tenant/general]
-tags: [RWB, licensed, difficult]
+tags: [IDN, licensed, difficult]
 ---
 
 # Application
@@ -22,13 +22,13 @@ rwb-application-1
 # Repository
 rwbprod
 # Pad
-p:\apps\general\Aster\application1\8.8.1\
+x:\apps\general\Aster\application1\8.8.1\
 # Date
 Nog nodig?
 # Creator
-Danny Smit
+Packager name
 # Requester
-Robert Smith
+Name
 # Remarks
 This is just for demo purposes
 # Install CLI
